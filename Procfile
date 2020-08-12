@@ -1,0 +1,1 @@
+web: npm run webpack --DATABASE_URL=postgres://cwhtyfdnnmrzmy:230691785a74bf47a20f58c7b57e1bc821f90f293942a4d8f657cf6ac1473522@ec2-54-246-115-40.eu-west-1.compute.amazonaws.com:5432/d99i453a8qqndq
